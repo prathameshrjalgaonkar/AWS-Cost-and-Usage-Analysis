@@ -120,6 +120,9 @@ To build an automated and scalable solution that provides real-time insights int
 ---
 
 ## **Screenshots**
+![image](https://github.com/user-attachments/assets/d44eea10-d830-4ae8-a7c8-cddab858f19a)
+
+
 ### **1. Power BI Dashboard**
 - **Overview**:
   - Monthly cost breakdown by service.
@@ -135,7 +138,7 @@ To build an automated and scalable solution that provides real-time insights int
 ---
 
 ## **Live Dashboard**
-The live Power BI dashboard can be accessed [here](link-to-dashboard).
+The live Power BI dashboard can be accessed [here](https://app.powerbi.com/groups/me/reports/56c39780-c229-4a88-bfc9-02cb70b28517/9d2c7802b254206b678b?experience=power-bi).
 
 ---
 
