@@ -104,7 +104,7 @@ To build an automated and scalable solution that provides real-time insights int
 ### **1. Running the Script**
 - Run the Python script to extract data and store it in MySQL:
   ```bash
-  python aws_cost_analysis.py
+  python Cost_and_Usage_Analysis_AWS.py
   ```
 
 ### **2. Setting Up Power BI**
